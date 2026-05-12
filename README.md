@@ -31,4 +31,4 @@ The moment my code runs and actually *does something* — that feeling never get
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/kajalsingh-ks/)
+Linkedin- https://www.linkedin.com/in/kajalsingh-ks/
