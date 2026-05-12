@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Kajal Singh 👋
 
-<!--
-**kajxldevs/kajxldevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 SY BSc CS student from Pune, India  
+💻 Aspiring Backend Developer  
+📚 Assistant Faculty at Sun Computers — teaching coding while learning it  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+- **CycleFit** — a cycle-aware fitness backend for women, built with Python & FastAPI
+- **my_python_backend_journey** — daily Python learning, pushed to GitHub every single day
+
+---
+
+## 🛠️ Currently Learning
+
+- Python Backend Development (FastAPI, Django)
+- DSA — Arrays, Linked Lists, Stack, Queue
+- DBMS & SQL
+
+---
+
+## ✨ Fun Fact
+
+I love reading, writing, and trying everything once.  
+Jack of all trades, and honestly, not complaining 😄  
+The moment my code runs and actually *does something* — that feeling never gets old. 🪄
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://www.linkedin.com/in/kajalsingh-ks/)
