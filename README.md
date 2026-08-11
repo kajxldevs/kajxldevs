@@ -1,4 +1,4 @@
-# Hi, I'm Devansh
+# Hi, I'm Kajal
 
 I'm a second-year Computer Science student interested in software development, problem solving, and building practical projects.
 
