@@ -24,7 +24,7 @@ I'm currently building CycleFit, a project that I'm developing and improving alo
 
 ### Writing
 
-I'm also working on a book.
+I'm also working on a book called "Palace secrets".
 
 ## Current Focus
 
